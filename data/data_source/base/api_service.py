@@ -1,6 +1,6 @@
 import requests
 
-from utils.jprint import jsonFormat
+from utils.json import jsonFormat
 
 class ApiService:
 
